@@ -1,0 +1,16 @@
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank.deps.json
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank.runtimeconfig.json
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank.runtimeconfig.dev.json
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank.dll
+/home/artur/workspace/project/bank/bin/Debug/net5.0/ref/bank.dll
+/home/artur/workspace/project/bank/bin/Debug/net5.0/bank.pdb
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.csprojAssemblyReference.cache
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.AssemblyInfoInputs.cache
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.AssemblyInfo.cs
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.csproj.CoreCompileInputs.cache
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.dll
+/home/artur/workspace/project/bank/obj/Debug/net5.0/ref/bank.dll
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.pdb
+/home/artur/workspace/project/bank/obj/Debug/net5.0/bank.genruntimeconfig.cache
